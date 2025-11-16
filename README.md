@@ -1,4 +1,6 @@
-# My Git Project.
+# My Git Project
+Project Status: In Development (API endpoints pending)
 
-Project Status: In Development
-
+## Features
+- **User Authentication**: A basic login form.
+- **Database Connection**: Mock database configuration added.
