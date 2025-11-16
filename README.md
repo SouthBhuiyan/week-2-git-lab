@@ -1,2 +1,4 @@
-# My Git Project
+# My Git Project.
+
 Project Status: In Development
+
